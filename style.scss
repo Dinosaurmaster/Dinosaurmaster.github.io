@@ -18,10 +18,13 @@ html {
 }
 
 body {
-	background-image: url("https://i.pinimg.com/originals/54/31/c0/5431c0963fe537fb3bc217b7dc563484.jpg");
+   background-image: url("https://i.pinimg.com/originals/54/31/c0/5431c0963fe537fb3bc217b7dc563484.jpg");
    background-repeat: no-repeat;
-	font: 18px/1.4 $helvetica;
-  color: $darkGray;
+   font: 18px/1.4 $helvetica;
+   color: $darkGray;
+   border-style: 2px solid;
+   border-width: 2px;
+   
 }
 
 .container {
