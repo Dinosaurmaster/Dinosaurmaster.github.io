@@ -1,5 +1,5 @@
 ---
-title: Blog 2
+title: Blog 2 Learning how to use google sheets
 layout: post
 author: Kieran
 permalink: /blog-2/
