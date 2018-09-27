@@ -1,5 +1,5 @@
 ---
-title: Blog 3
+title: Blog 3 Using Cipher
 layout: post
 author: Kieran
 permalink: /blog-3/
