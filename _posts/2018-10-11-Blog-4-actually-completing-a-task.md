@@ -1,5 +1,5 @@
 ---
-title: Blog 4
+title: Blog 4 Actually completing the task
 layout: post
 author: Kieran
 permalink: /blog-4/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Blog 4 actually completing a task</td>
+    <td>Blog 4 Actually completing a task</td>
     <td>Date</td>
     <td>27/09/18</td>
   </tr>
