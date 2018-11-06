@@ -1,5 +1,5 @@
 ---
-title: Blog 6
+title: Blog 6 Another lesson on Mozilla Thimble
 layout: post
 author: kieran.cripps
 permalink: /blog-6/
