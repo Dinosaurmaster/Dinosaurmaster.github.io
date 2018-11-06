@@ -1,5 +1,5 @@
 ---
-title: Blog 5
+title: Blog 5 Leaving GitHub and meeting Mozilla Thimble
 layout: post
 author: kieran.cripps
 permalink: /blog-5/
